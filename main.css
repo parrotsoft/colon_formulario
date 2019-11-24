@@ -1,0 +1,31 @@
+body {
+    margin-top: 1em;
+}
+input {
+    border: 1px solid #7d7b7b !important;
+}
+.container {
+    border: 1px solid rgb(241, 241, 241);
+    padding-bottom: 1em;
+}
+.navbar {
+    margin: 1em;
+}
+legend {
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.verde {
+    color: darkgreen;
+}
+.azul {
+    color: darkslateblue;
+}
+.rojo {
+    color: red;
+}
+.pie {
+    margin-top: 4px;
+    font-weight: 600;
+}
