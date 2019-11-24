@@ -1,0 +1,12 @@
+{
+    "name": "miguel/reporte",
+    "authors": [
+        {
+            "name": "Miguel Lopez Ariza",
+            "email": "lopezarizamiguel@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
